@@ -1,0 +1,117 @@
+body {
+  margin-top: 77px;
+  margin-left:150px;
+  margin-bottom: 70px;
+  width: 1200px;
+}
+
+ul {
+  display: inline;
+  margin-top: 77px;
+  margin-bottom: 103px;
+  padding: 0px;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  font-family: "Playfair display regular", Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: left;
+  font-size: 14px;
+  color: #626262;
+}
+
+a:hover {
+  color: #44b6f5;
+}
+
+nav {
+  display: inline;
+  white-space: nowrap;
+  margin-left: 164px;
+  word-spacing: 90px;
+  margin-bottom: 103px;
+}
+
+.content-area {
+  display: block;
+  margin-top: 100px;
+}
+
+.first-line {
+  display: inline-block;
+}
+
+.lifestyle {
+  display: inline-block;
+  width: 481px;
+  height: 610px;
+}
+
+.second-line {
+  display: inline-block;
+}
+
+.photodiary {
+  display: inline-block;
+  width: 481px;
+  height: 610px;
+}
+
+.thirty-line {
+  display: inline-block;
+}
+
+img {
+  width: 420px;
+  height: 280px;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family: "Ubuntu light", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #c8c3b9;
+  margin-top: 32px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-family: "Playfair Display regular", Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  color: #626262;
+  margin-top: 32px;
+  margin-bottom: 0px;
+}
+
+p {
+  width: 420px;
+  font-family: "Playfair Display regular", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: #626262;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+button {
+  text-align:center;
+  padding:22px 34px;
+  border:solid 1px #626262;
+  font:19px "Playfair Display regular", Arial, Helvetica, sans-serif;
+  color:#626262;
+  background: #ffffff;
+  margin-top: -60px;
+  margin-left: 360px;
+}
+
+button:hover {
+  color: #44b6f5;
+  border:solid 1px #44b6f5;
+}
